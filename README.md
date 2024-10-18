@@ -20,7 +20,7 @@ Este es un conversor de monedas desarrollado en Java que permite a los usuarios 
 ## Cómo usar el proyecto
 1. Clona este repositorio en tu máquina local:
    ```bash
-   git clone https://github.com/tu-usuario/conversor-monedas.git
+   git clone https://github.com/EmmaIbarra/conversor-monedas.git
 
 2. Compila y ejecuta el proyecto en tu entorno de desarrollo Java. Asegúrate de tener la versión 17 de Java instalada.
 
