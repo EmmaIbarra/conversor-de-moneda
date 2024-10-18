@@ -25,7 +25,7 @@ Este es un conversor de monedas desarrollado en Java que permite a los usuarios 
 2. Compila y ejecuta el proyecto en tu entorno de desarrollo Java. Asegúrate de tener la versión 17 de Java instalada.
 
 3. Al ejecutar la aplicación, verás un menú que te permitirá elegir entre diferentes conversiones. Por ejemplo:
-   ![image](https://github.com/user-attachments/assets/7798ec21-1bb5-4eb4-8518-27246adc130f)
+![image](https://github.com/user-attachments/assets/7798ec21-1bb5-4eb4-8518-27246adc130f)
 
 4. Ingresa la opción que deseas y el monto a convertir.
 
